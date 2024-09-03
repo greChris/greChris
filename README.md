@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... C + JAVA + ALGORITHMS
 - 💞️ I’m looking to collaborate on ... nothing just building sites with my friends
 - 📫 How to reach me ... nionioskoledrianos@outlook.com.gr
-- 😄 Pronouns: ...idk whats a pronouns
+- 😄 Pronouns: ...idk whats a pronoun
 - ⚡ Fun fact: ... im 15 years old and im from Greece
 
 <!---
